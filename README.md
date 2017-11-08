@@ -44,6 +44,8 @@
 
 [@Xu Xiang](https://github.com/XanderXu1998/)
 
+[@Chen Shichen](https://github.com/CcKeima/)
+
 ## Related Efforts
 
 - C++程序设计实习指导书（2017） 夏军宝
